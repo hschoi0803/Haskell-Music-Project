@@ -2,7 +2,10 @@
 
 creates simple musical patterns based on set of music
 
-usage: \n
-start synthesizer \n
-on terminal: \n
+usage: 
+
+start synthesizer
+
+on terminal:
+
   runhaskell finalProject.hs
